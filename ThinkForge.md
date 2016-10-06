@@ -23,13 +23,18 @@ The ThinkForge High-Concept Zero-D Printing System works best when used at regul
 ThinkForge has a sleek clutter-free zero-footprint design, and occupies no physical space.
 
 **There are no clouds in the sky.**
-There's a cloud somewhere, out of sight.
+No problem. There's a cloud somewhere, out of sight.
 
 **It is completely overcast.**
-No problem. Honestly, ThinkForge works just fine without any clouds. Don't worry about the clouds.
+Honestly, ThinkForge works just fine without any clouds. Don't worry about the clouds.
 
 **You want words printed on paper, or an object printed with plastic.**
 Listen, your project is in great shape. Stop working on it for a while.
 
 **Your project is not in great shape.**
 Listen, your project is not in great shape, but you've got a fine-looking print regardless. What more do you want?
+
+Thank you for choosing the ThinkForge High-Concept Zero-D Printing System
+
+
+https://github.com/timpear/ThinkForge
